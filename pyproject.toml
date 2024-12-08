@@ -1,0 +1,4 @@
+[project]
+name = "masta"
+version = "1.0.0"
+description = "automate the management of downloading and installing python packages from github to local pip"
